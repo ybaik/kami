@@ -1,0 +1,15 @@
+backup-etc
+jpn-*
+Kamigami*
+kor-*
+script_init*
+
+*.zip
+*.hdi
+*.txt
+*.bat
+
+annoying.json
+dictionary.json
+
+
